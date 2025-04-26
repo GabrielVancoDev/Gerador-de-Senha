@@ -17,3 +17,15 @@ Ele permite ao usuário gerar uma senha de tamanho personalizado e copiá-la com
 
 ## Estrutura do Projeto
 
+# Imagem do logo do projeto 
+ 
+📁 assets/📄 image.png
+
+# Página principal 
+📄 index.html 
+
+# Estilização do projeto 
+📄 style.css 
+
+# Lógica de geração e cópia da senha
+📄 script.js 
